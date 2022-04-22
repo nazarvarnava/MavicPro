@@ -20,7 +20,7 @@
     "normalize.css": "^8.0.1"
   },
   "dependencies": {
-    "fullpage.js": "^3.0.8",
+    "fullpage.js": "^4.0.5",
     "magnific-popup": "^1.1.0",
     "slick-carousel": "^1.8.1"
   }
